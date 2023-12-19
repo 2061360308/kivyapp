@@ -2,7 +2,7 @@ name: Build Kivy Android APK
 
 on:
   push:
-    paths:
+    branches:
       - main
 
 jobs:
