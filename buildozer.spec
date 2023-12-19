@@ -40,4 +40,4 @@ android.minapi = 21
 android.targetapi = 27
 
 # (str) Android NDK版本
-android.ndk = 19b
+android.ndk = 25
