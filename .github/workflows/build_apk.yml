@@ -3,9 +3,7 @@ name: Build Kivy Android APK
 on:
   push:
     paths:
-      - 'main.py'
-      - '.github/workflows/build-android.yml'
-      - 'buildozer.spec'
+      - main
 
 jobs:
   build:
