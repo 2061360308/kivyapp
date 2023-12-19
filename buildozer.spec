@@ -27,9 +27,6 @@ version = 0.1
 # (list) 应用程序需要的权限
 android.permissions = INTERNET
 
-# (str) Android NDK版本
-android.ndk = 19b
-
 # (bool) 是否使用--private参数在apk中包含你的Python安装？如果是False，那么你的apk将尝试连接到一个在设备上已经安装的Python，这通常是不可能的。
 android.private_storage = True
 
