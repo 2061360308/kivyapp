@@ -23,7 +23,6 @@ jobs:
 
     - name: Build APK
       run: |
-        buildozer init
         buildozer android release
 
     - name: Upload APK
