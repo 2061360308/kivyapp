@@ -39,8 +39,5 @@ android.minapi = 21
 # (str) Android的目标API版本
 android.targetapi = 27
 
-# (str) Android SDK版本
-android.sdk = 24
-
 # (str) Android NDK版本
 android.ndk = 19b
